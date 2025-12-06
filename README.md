@@ -6,7 +6,7 @@ O objetivo é treinar lógica de programação, eventos, validação de dados e 
 **📂🗂️ Estrutura do Projeto**:
 
 <pre>
-│exercicios-js-dom-Lucas-Paguetti/
+exercicios-js-dom-Lucas-Paguetti/
 ├── questao1/
 │   ├── questao01.html
 │   ├── questao01.css
