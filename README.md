@@ -31,7 +31,7 @@ exercicios-js-dom-Lucas-Paguetti/
 </pre>
 
 ***Cada pasta representa um exercício 
-independente, com seus próprios arquivos.**
+independente, com seus próprios arquivos.***
 
 -- 
 
