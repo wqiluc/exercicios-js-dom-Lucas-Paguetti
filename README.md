@@ -3,7 +3,7 @@
 Este repositório contém quatro exercícios práticos utilizando HTML, CSS e JavaScript, com foco em manipulação do **DOM (Document Object Model).**
 O objetivo é treinar lógica de programação, eventos, validação de dados e interação dinâmica com a página.
 
-**📂 Estrutura do Projeto**
+**📂🗂️ Estrutura do Projeto**:
 
 <pre>
 │exercicios-js-dom-Lucas-Paguetti/
@@ -30,4 +30,16 @@ O objetivo é treinar lógica de programação, eventos, validação de dados e 
 └── package.json
 </pre>
 
-***Cada pasta representa um exercício independente, com seus próprios arquivos.**
+***Cada pasta representa um exercício 
+independente, com seus próprios arquivos.**
+
+-- 
+
+**Tecnologias Utilizadas**:
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  &nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+</p>
