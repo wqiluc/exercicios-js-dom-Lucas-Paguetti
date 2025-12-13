@@ -27,6 +27,7 @@ exercicios-js-dom-Lucas-Paguetti/
 │   ├── questao04.css
 │   └── questao04.js
 │
+└── LICENSE
 └── package.json
 </pre>
 
