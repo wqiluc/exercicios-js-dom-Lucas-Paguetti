@@ -1,0 +1,19 @@
+{
+  "name": "exercicios-js-dom-lucas-paguetti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questão 1/questao01.js",
+  "scripts": {
+    "start": "node \"questão 1/questao01.js\"",
+
+    "q1": "node \"questão 1/questao01.js\"",
+    "q2": "node \"questão 2/questao02.js\"",
+    "q3": "node \"questão 3/questao03.js\"",
+    "q4": "node \"questão 4/questao04.js\"",
+
+    "test": "node \"questão 1/questao01.js\" && node \"questão 2/questao02.js\" && node \"questão 3/questao03.js\" && node \"questão 4/questao04.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

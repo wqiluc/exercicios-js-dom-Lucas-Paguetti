@@ -1,0 +1,25 @@
+body {font-family: Arial, sans-serif;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;}
+
+#forma {width: 200px;
+    height: 200px;
+    background: #6d28d9;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    transition: 0.4s;}
+
+button {padding: 10px 18px;
+    background: #9333ea;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;}
+
+button:hover 
+{background: #7e22ce;}
