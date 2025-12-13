@@ -3,7 +3,7 @@
 Este repositório contém quatro exercícios práticos utilizando HTML, CSS e JavaScript, com foco em manipulação do **DOM (Document Object Model).**
 O objetivo é treinar lógica de programação, eventos, validação de dados e interação dinâmica com a página.
 
-**📂🗂️ Estrutura do Projeto**:
+**📂 Estrutura do Projeto**:
 
 <pre>
 exercicios-js-dom-Lucas-Paguetti/
