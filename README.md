@@ -44,4 +44,6 @@ independente, com seus próprios arquivos.***
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" /> <br>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
