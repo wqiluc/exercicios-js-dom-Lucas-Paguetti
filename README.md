@@ -1,4 +1,4 @@
-<h1 align="center">📘 Exercícios de JavaScript + DOM</h1>
+<h1 align="center">⚙️ Exercícios de JavaScript + DOM</h1>
 
 
 Este repositório contém quatro exercícios práticos utilizando HTML, CSS e JavaScript, com foco em manipulação do **DOM (Document Object Model).**
