@@ -1,9 +1,10 @@
-**📘 Exercícios de JavaScript + DOM**
+<h1 align="center">📘 Exercícios de JavaScript + DOM</h1>
+
 
 Este repositório contém quatro exercícios práticos utilizando HTML, CSS e JavaScript, com foco em manipulação do **DOM (Document Object Model).**
 O objetivo é treinar lógica de programação, eventos, validação de dados e interação dinâmica com a página.
 
-**📂 Estrutura do Projeto**:
+h2 align="center">📂 Estrutura do Projeto: </h2>
 
 <pre>
 exercicios-js-dom-Lucas-Paguetti/
@@ -36,7 +37,7 @@ independente, com seus próprios arquivos.***
 
 -- 
 
-**💻⛏️Tecnologias Utilizadas**:
+<h2 align="center">⛏️💻 Tecnologias Utilizadas: </h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
