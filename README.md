@@ -28,9 +28,11 @@ exercicios-js-dom-Lucas-Paguetti/
 │   ├── questao04.css
 │   └── questao04.js
 │
-└── LICENSE
+├── README.md
+├── LICENSE
 └── package.json
 </pre>
+
 
 ***Cada pasta representa um exercício 
 independente, com seus próprios arquivos.***
