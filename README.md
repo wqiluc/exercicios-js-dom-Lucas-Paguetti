@@ -31,6 +31,7 @@ exercicios-js-dom-Lucas-Paguetti/
 ├── README.md
 ├── LICENSE
 └── package.json
+<img src="https://img.shields.io/badge/Arquitetura-111827?style=for-the-badge&logo=instructure&logoColor=white" alt="Arquitetura Badge"/>
 </pre>
 
 
