@@ -10,29 +10,30 @@ O objetivo é treinar lógica de programação, eventos, validação de dados e 
 <pre>
 exercicios-js-dom-Lucas-Paguetti/
 ├── questao1/
-│   ├── questao01.html<img src="https://skillicons.dev/icons?i=html" width="15"/>
-│   ├── questao01.css<img src="https://skillicons.dev/icons?i=css" width="15"/>
-│   └── questao01.js<img src="https://skillicons.dev/icons?i=js" width="15"/>
+│   ├── questao01.html <img src="https://skillicons.dev/icons?i=html" width="15"/>
+│   ├── questao01.css <img src="https://skillicons.dev/icons?i=css" width="15"/>
+│   └── questao01.js <img src="https://skillicons.dev/icons?i=js" width="15"/>
 │
 ├── questao2/
-│   ├── questao02.html<img src="https://skillicons.dev/icons?i=html" width="15"/>
-│   ├── questao02.css<img src="https://skillicons.dev/icons?i=css" width="15"/>
-│   └── questao02.js<img src="https://skillicons.dev/icons?i=js" width="15"/>
+│   ├── questao02.html <img src="https://skillicons.dev/icons?i=html" width="15"/>
+│   ├── questao02.css <img src="https://skillicons.dev/icons?i=css" width="15"/>
+│   └── questao02.js <img src="https://skillicons.dev/icons?i=js" width="15"/>
 │
 ├── questao3/
-│   ├── questao03.html<img src="https://skillicons.dev/icons?i=html" width="15"/>
-│   ├── questao03.css<img src="https://skillicons.dev/icons?i=css" width="15"/>
-│   └── questao03.js<img src="https://skillicons.dev/icons?i=js" width="15"/>
+│   ├── questao03.html <img src="https://skillicons.dev/icons?i=html" width="15"/>
+│   ├── questao03.css <img src="https://skillicons.dev/icons?i=css" width="15"/>
+│   └── questao03.js <img src="https://skillicons.dev/icons?i=js" width="15"/>
 │
 ├── questao4/
-│   ├── questao04.html<img src="https://skillicons.dev/icons?i=html" width="15"/>
-│   ├── questao04.css<img src="https://skillicons.dev/icons?i=css" width="15"/>
-│   └── questao04.js<img src="https://skillicons.dev/icons?i=js" width="15"/>
+│   ├── questao04.html <img src="https://skillicons.dev/icons?i=html" width="15"/>
+│   ├── questao04.css <img src="https://skillicons.dev/icons?i=css" width="15"/>
+│   └── questao04.js <img src="https://skillicons.dev/icons?i=js" width="15"/>
 │
-├── README.md<img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" 
-├── LICENSE🔖
-└── package.json<img src="https://skillicons.dev/icons?i=nodejs" width="15"/>
+├── README.md <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000"/>
+├── LICENSE 🔖
+└── package.json <img src="https://skillicons.dev/icons?i=nodejs" width="15"/>
 </pre>
+
 
 
 ***Cada pasta representa um exercício 
