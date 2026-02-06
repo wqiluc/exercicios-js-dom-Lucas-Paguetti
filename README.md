@@ -29,7 +29,7 @@ exercicios-js-dom-Lucas-Paguetti/
 │   ├── questao04.css <img src="https://skillicons.dev/icons?i=css" width="15"/>
 │   └── questao04.js <img src="https://skillicons.dev/icons?i=js" width="15"/>
 │
-├── README.md <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000"/>
+├── README.md <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" width="15"/>
 ├── LICENSE 🔖
 └── package.json <img src="https://skillicons.dev/icons?i=nodejs" width="15"/>
 </pre>
