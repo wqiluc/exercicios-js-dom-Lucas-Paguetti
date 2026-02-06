@@ -31,7 +31,7 @@ exercicios-js-dom-Lucas-Paguetti/
 │
 ├── README.md
 ├── LICENSE
-└── package.json
+└── package.json<img src="https://skillicons.dev/icons?i=nodejs" width="15"/>
 </pre>
 
 
