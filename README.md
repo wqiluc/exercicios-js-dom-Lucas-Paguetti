@@ -4,7 +4,8 @@
 Este repositório contém quatro exercícios práticos utilizando HTML, CSS e JavaScript, com foco em manipulação do **DOM (Document Object Model).**
 O objetivo é treinar lógica de programação, eventos, validação de dados e interação dinâmica com a página.
 
-<h2 align="center"> 📂 Estrutura do Projeto: </h2>
+<h2 align="center"> 🏛️ Arquitetura do Projeto: <br>
+<img src="https://img.shields.io/badge/Arquitetura-111827?style=for-the-badge&logo=instructure&logoColor=white" alt="Arquitetura Badge"/></h2>
 
 <pre>
 exercicios-js-dom-Lucas-Paguetti/
@@ -31,7 +32,6 @@ exercicios-js-dom-Lucas-Paguetti/
 ├── README.md
 ├── LICENSE
 └── package.json
-<img src="https://img.shields.io/badge/Arquitetura-111827?style=for-the-badge&logo=instructure&logoColor=white" alt="Arquitetura Badge"/>
 </pre>
 
 
